@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prionage
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning algorithm and Data structure 
+- 🌱 I’m currently learning Data science and machine learning 
 - 💞️ I’m looking to collaborate on team projects 
 - 📫 How to reach me on Twitter @isprionage
 
